@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2017/03/07 09:00:00</string>
+  <string>2017/03/11 09:00:00</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -44,7 +44,7 @@
   <key>openTypeNameUniqueID</key>
   <string></string>
   <key>openTypeNameVersion</key>
-  <string>Version 0.17 2017</string>
+  <string>Version 0.18 2017</string>
   <key>openTypeOS2FamilyClass</key>
   <array>
     <integer>0</integer>
@@ -161,7 +161,7 @@
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>17</integer>
+  <integer>18</integer>
   <key>year</key>
   <integer>2017</integer>
   <key>xHeight</key>
@@ -169,6 +169,6 @@
   <key>macintoshFONDName</key>
   <string>YUUSansSerif</string>
   <key>macintoshFONDFamilyID</key>
-  <integer>2283</integer>
+  <integer>15206</integer>
 </dict>
 </plist>
